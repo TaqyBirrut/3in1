@@ -1,7 +1,59 @@
-#warna-merah {
+#warna-merah{
 			background-color: #D10214;
 			border:	5px solid #F8E71D;
 			height: 60px;
-		}
+}
 
-		#war
+#warna-kuning{
+	background-color: #F8E71D;
+	border: 5px solid #866C49;
+	height: 120px;
+	width: 30%;
+}
+
+#warna-hijau {
+	float: right;
+	background-color: #7ED320;
+	border:5px solid #9A4A37;
+	height: 120px;
+	width: 65%;
+
+}
+
+#warna-ungu{
+	background-color: #BD0FE0;
+	border: 5px solid #7C8D60;
+	height: 120px;
+	width: 60%;
+}
+
+#warna-orange{
+	background-color: #F5A623; 
+	border: 5px solid #3D1E09;
+	height: 240px;
+	width: 15%;
+}
+
+#warna-biru-tua{
+	float: right;
+	background-color: #4990E2; 
+	border: 5px solid #C5A879;
+	height: 120px;
+	width: 35%;
+}
+
+#warna-abu-abu{
+	float: right;
+	background-color: #4A4A4A;
+	border: 5px solid #4E6F2E;
+	height: 60px;
+	width: 80%;
+}
+
+#warna-putih{
+	float: right;
+	background-color: #FFFFFF;
+	border: 5px solid #3C3E3D;
+	height: 170px;
+	width: 25%;
+}
