@@ -1,0 +1,47 @@
+
+		body {background-color:yellow;}
+		p {color:white;}
+		h1{color: white;}
+		h1 {border:2px solid pink;}
+		h2 {background-color: lightblue;}
+		a:link {
+			color:black;
+			background-color:transparent;
+			text-decoration:none;
+		}
+		a:visited{
+			color:green;
+			background-color:transparent;
+			text-decoration:none;
+		}
+		a:hover{
+			color:blue;
+			background-color:transparent;
+			text-decoration:underline;
+		}
+		a:active{
+			color: purple;
+			background-color:transparent;
+			text-decoration:underline;
+		}
+		table, th, td {
+  			border: 1px solid black;
+		}	
+		h1 {style="background-image:url('wall pubg.jpg');"}
+		<h1 style="color:green;"> heading 1 </h1>
+		<p style="color:yellow;"> paragraf</p>
+	<p></p>
+	<h1> heading 1</h1>
+	<h2 style="font-family:courier">heading 2</h2>
+	<p style="font-size:200%">paragraf</p>
+	<h3 style="text-align: left;"> heading3</h3>
+	<h10>heading 10</h10>
+	<h6 style="text-align: right;">heading6</h6>
+	<h6 style="text-align:center;">heading 6</h6>
+	<p style="font-family: verdana"> ojamasimas</p>
+	<p style="font-size: 200%">200%</p>
+	<h1 style="text-align:center">tengah ya</h1>
+	<p style="background-color: lightblue">yeee biru</p>
+	<p style="color: green">huhuhu ijo</p>
+	<p style="border:2px solid pink ">garis pink</p>
+	style="text-align: center"
